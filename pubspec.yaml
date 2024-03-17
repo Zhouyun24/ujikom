@@ -1,0 +1,98 @@
+name: myapp
+description: A exported flutter project from FUNCTION12
+publish_to:
+version: 1.0.0+1
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  google_fonts: ^4.0.1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/page-1/images/cellular-connection.png
+    - assets/page-1/images/cellular-connection-PFz.png
+    - assets/page-1/images/arrow-back-button.png
+    - assets/page-1/images/battery.png
+    - assets/page-1/images/arrow-back-button-44t.png
+    - assets/page-1/images/battery-yF2.png
+    - assets/page-1/images/wifi.png
+    - assets/page-1/images/group-752.png
+    - assets/page-1/images/group-33.png
+    - assets/page-1/images/carbon-carbon-for-ibm-product.png
+    - assets/page-1/images/wifi-cje.png
+    - assets/page-1/images/wifi-kWQ.png
+    - assets/page-1/images/group-33-btG.png
+    - assets/page-1/images/group-10.png
+    - assets/page-1/images/group-28.png
+    - assets/page-1/images/battery-s9E.png
+    - assets/page-1/images/arrow-back-button-cPe.png
+    - assets/page-1/images/search.png
+    - assets/page-1/images/wifi-Mmn.png
+    - assets/page-1/images/cellular-connection-uTA.png
+    - assets/page-1/images/wifi-Q92.png
+    - assets/page-1/images/battery-wR6.png
+    - assets/page-1/images/group.png
+    - assets/page-1/images/line.png
+    - assets/page-1/images/wifi-6Eg.png
+    - assets/page-1/images/battery-wM6.png
+    - assets/page-1/images/group-828.png
+    - assets/page-1/images/wifi-7Fz.png
+    - assets/page-1/images/battery-Fd6.png
+    - assets/page-1/images/group-33-yRE.png
+    - assets/page-1/images/group-33-83E.png
+    - assets/page-1/images/union.png
+    - assets/page-1/images/auto-group-b2gx.png
+    - assets/page-1/images/wifi-uFa.png
+    - assets/page-1/images/arrow-back-button-BXr.png
+    - assets/page-1/images/group-33-vS8.png
+    - assets/page-1/images/cellular-connection-F6C.png
+    - assets/page-1/images/cellular-connection-fn4.png
+    - assets/page-1/images/line-FGQ.png
+    - assets/page-1/images/cellular-connection-Weg.png
+    - assets/page-1/images/arrow-back-button-ayi.png
+    - assets/page-1/images/group-12.png
+    - assets/page-1/images/battery-7Z6.png
+    - assets/page-1/images/group-755.png
+    - assets/page-1/images/wifi-JM2.png
+    - assets/page-1/images/arrow-back-button-yG8.png
+    - assets/page-1/images/alipay.png
+    - assets/page-1/images/group-1.png
+    - assets/page-1/images/group-28-Wxk.png
+    - assets/page-1/images/line-3DE.png
+    - assets/page-1/images/group-28-Lu2.png
+    - assets/page-1/images/group-10-UDr.png
+    - assets/page-1/images/rectangle-39-bg.png
+    - assets/page-1/images/jcb.png
+    - assets/page-1/images/rectangle-39-bg-Fcp.png
+    - assets/page-1/images/rectangle-39-bg-u8G.png
+    - assets/page-1/images/google-pay.png
+    - assets/page-1/images/group-6.png
+    - assets/page-1/images/group-804.png
+    - assets/page-1/images/arrow-back-button-tNY.png
+    - assets/page-1/images/cellular-connection-XnC.png
+    - assets/page-1/images/battery-uzt.png
+    - assets/page-1/images/alfa-bank-.png
+    - assets/page-1/images/group-804-VFJ.png
+    - assets/page-1/images/battery-EWx.png
+    - assets/page-1/images/wifi-LZJ.png
+    - assets/page-1/images/battery-nX6.png
+    - assets/page-1/images/group-842.png
+    - assets/page-1/images/wallet.png
+    - assets/page-1/images/rectangle-39-bg-RWL.png
+    - assets/page-1/images/cellular-connection-Krc.png
+    - assets/page-1/images/cellular-connection-dkQ.png
+    - assets/page-1/images/search-ad2.png
+    - assets/page-1/images/maestro.png
+    - assets/page-1/images/group-755-wuW.png
+    - assets/page-1/images/rectangle-39-bg-6Dz.png
+    - assets/page-1/images/group-11.png
+    - assets/page-1/images/cellular-connection-cUU.png
+    - assets/page-1/images/mastercard.png
+
