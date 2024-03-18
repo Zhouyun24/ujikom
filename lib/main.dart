@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
 	@override
 	Widget build(BuildContext context) {
 		return MaterialApp(
-			debugShowCheckedModeBanner: false,
+			debugShowCheckedModeBanner: false ,
 			title: 'Your App Title',
 			initialRoute: AppRoutes.helloScreen, // Set the initial route
 			routes: AppRoutes.routes,

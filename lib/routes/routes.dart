@@ -23,7 +23,7 @@ class AppRoutes {
 
   static const String dasboardOwnerScreen = '/dasboardOwnerScreen';
 
-  static const String transactionProductScreen = '/tansactionProductScreen';
+  static const String transactionProductScreen = '/transactionProductScreen';
 
   static const String transactionFavouriteScreen = '/transactionFavouriteScreen';
 

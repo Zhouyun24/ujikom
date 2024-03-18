@@ -420,7 +420,7 @@ class MethodPaymentNonCashScreen extends StatelessWidget {
   }
 
   OnTapBack(BuildContext context) {
-    Navigator.pop(context);
+    Navigator.pushNamed(context, AppRoutes.billScreen);
   }
   OnTapCash(BuildContext context) {
     Navigator.pushNamed(context, AppRoutes.methodPaymentCashScreen);
